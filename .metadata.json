@@ -1,5 +1,11 @@
 [
   {
     "package": "BioNERO"
+  },
+  {
+    "package": "cageminer"
+  },
+  {
+    "package": "cogeqc"
   }
 ]

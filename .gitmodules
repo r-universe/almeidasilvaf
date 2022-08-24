@@ -8,3 +8,13 @@
 	url = https://github.com/almeidasilvaf/bionero
 	shallow = true
 	registered = true
+[submodule "cageminer"]
+	path = cageminer
+	url = https://github.com/almeidasilvaf/cageminer
+	shallow = true
+	registered = true
+[submodule "cogeqc"]
+	path = cogeqc
+	url = https://github.com/almeidasilvaf/cogeqc
+	shallow = true
+	registered = true
