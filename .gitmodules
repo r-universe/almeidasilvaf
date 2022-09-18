@@ -18,8 +18,3 @@
 	url = https://github.com/almeidasilvaf/cogeqc
 	shallow = true
 	registered = true
-[submodule "syntenet"]
-	path = syntenet
-	url = https://github.com/almeidasilvaf/syntenet
-	shallow = true
-	registered = true
