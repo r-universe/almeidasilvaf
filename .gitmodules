@@ -28,6 +28,11 @@
 	url = https://github.com/almeidasilvaf/magrene
 	shallow = true
 	registered = true
+[submodule "planttfhunter"]
+	path = planttfhunter
+	url = https://github.com/almeidasilvaf/planttfhunter
+	shallow = true
+	registered = true
 [submodule "syntenet"]
 	path = syntenet
 	url = https://github.com/almeidasilvaf/syntenet
