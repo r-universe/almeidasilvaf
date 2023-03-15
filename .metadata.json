@@ -1,12 +1,9 @@
 [
   {
-    "package": "BioNERO"
-  },
-  {
-    "package": "cageminer"
-  },
-  {
     "package": "cogeqc"
+  },
+  {
+    "package": "planttfhunter"
   },
   {
     "package": "doubletrouble"
@@ -15,9 +12,12 @@
     "package": "magrene"
   },
   {
-    "package": "planttfhunter"
+    "package": "syntenet"
   },
   {
-    "package": "syntenet"
+    "package": "BioNERO"
+  },
+  {
+    "package": "cageminer"
   }
 ]
